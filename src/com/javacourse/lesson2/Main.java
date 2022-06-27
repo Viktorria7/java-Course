@@ -5,7 +5,7 @@ public class Main {
         int p =5;
         int u=16;
             if (p>u)
-            System.out.println (p + "больше");
+             System.out.println (p + "больше");
             else
                 System.out.println(u + "больше");
     }
